@@ -1,0 +1,69 @@
+System.out.println("나는 동일한 길을 걷고 있었네.");
+System.out.println("보도에는 깊은 구멍이 있었지.");
+System.out.println("나는 그것을 보았네.");
+System.out.println("나는 여전히 거기에 빠졌지, 습관적으로.");
+System.out.println("나의 눈은 열려 있었고,");
+System.out.println("나는 내가 어디 있는지 알았지.");
+System.out.println();
+System.out.println("나는 동일한 길을 걷고 있었네.");
+System.out.println("보도에는 깊은 구멍이 있었지.");
+System.out.println("나는 그곳을 피해 돌아갔지.");
+System.out.println();
+System.out.rpintln("나는 다른 길로 이제는 다니네.");
+System.out.println();
+System.out.println("- 포티아 넬슨-");
+
+int lineNumber;
+
+linNumber = 1;
+System.out.println("나는 동일한 길을 걷고 있었네.");
+linNumber = linNumber + 1;
+System.out.println("보도에는 깊은 구멍이 있었지.");
+linNumber = linNumber + 1;
+System.out.println("나는 그것을 보았네.");
+linNumber = linNumber + 1;
+System.out.println("나는 여전히 거기에 빠졌지, 습관적으로.");
+linNumber = linNumber + 1;
+System.out.println("나의 눈은 열려 있었고,");
+linNumber = linNumber + 1;
+System.out.println("나는 내가 어디 있는지 알았지.");
+linNumber = linNumber +1;
+System.out.println();
+linNumber = linNumber + 1;
+System.out.println("나는 동일한 길을 걷고 있었네.");
+linNumber = linNumber + 1 ;
+System.out.println("보도에는 깊은 구멍이 있었지.");
+linNumber = linNumber + 1;
+System.out.println("나는 그곳을 피해 돌아갔지.");
+linNumber = linNumber + 1;
+System.out.println();
+linNumber = linNumber + 1;
+System.out.rpintln("나는 다른 길로 이제는 다니네.");
+linNumber = linNumber + 1;
+System.out.println();
+linNumber = linNumber + 1;
+System.out.println("- 포티아 넬슨-");
+
+무엇이 빚을 지게 하는가. 
+기다림과 견딤이다. 
+무엇이 이익을 만들어내는가. 
+곰곰이 오래 생각하지 않는 것. 
+무엇이 명예를 가져오는가. 
+자신을 지키는 것."
+
+lineNumber = 1;
+System.out.println("걱정하지 말고 얼음 위를 나아가라");
+lineNumber= lineNumber+1;
+System.out.println("가장 용감한 자가");
+lineNumber=lineNumber+1;
+System.out.println("미처 길을 내지 못한 곳을 보게 되면");
+lineNumber = lineNumber +1;
+System.out.println("네 자신이 길을 만들어라!")'
+lineNumber= lineNumber+1;
+System.out.println("귀여운 사람이여,");
+lineNumber = lineNumber + 1;
+System.out.println("내 사랑이여 조용히!");
+lineNumber = lineNumber +1;
+System.out.println();
+lineNumber = lineNumber +1 ;
+System.out.println("- <괴테의 시집> <용기> 중에서> - ");
